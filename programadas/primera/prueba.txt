@@ -1,0 +1,7 @@
+192.168.24.0
+16 direcciones para A
+127 direcciones para B
+30 direcciones para C
+15 direcciones para D
+63 direcciones para E
+7 direcciones para F
